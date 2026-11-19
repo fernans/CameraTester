@@ -1,0 +1,22 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+*.tmp
+*.swp
+*~
+.idea/
+.vs/
+.vscode/
+*.depend
+*.layout
+*.sublime-workspace
+Copia de */
+Backup_old/
+.env
+*.p12
+*.pfx
+*.pem
+*.key
+*.jks
+*.keystore
+*.mobileprovision
